@@ -17,6 +17,7 @@ I’ve switched from one AI to another, yet my programming prowess has only ever
 
 At that moment, I finally let it go.  
 The tools kept changing, but the one who stayed strong was always me. So it turns out—I’ve been a genius programmer all along.
+
 CN:
 原来我一直是天才程序员
 
