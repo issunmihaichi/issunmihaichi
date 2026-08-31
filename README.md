@@ -17,7 +17,9 @@ I’ve switched from one AI to another, yet my programming prowess has only ever
 
 At that moment, I finally let it go.  
 The tools kept changing, but the one who stayed strong was always me. So it turns out—I’ve been a genius programmer all along.
+
 ---
+
 CN:
 原来我一直是天才程序员  
 
@@ -35,7 +37,7 @@ GPT-3那会儿，我的编程能力还很青涩，写出来的代码常遭人嘲
 
 那一刻，我终于释然了。  
 工具一直在换，强的却一直是我，原来我早就是天才程序员了  
-
+Coding is better than gaming.
 <!--
 **issunmihaichi/issunmihaichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
