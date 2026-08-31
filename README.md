@@ -37,6 +37,8 @@ GPT-3那会儿，我的编程能力还很青涩，写出来的代码常遭人嘲
 
 那一刻，我终于释然了。  
 工具一直在换，强的却一直是我，原来我早就是天才程序员了  
+
+---
 Coding is better than gaming.
 <!--
 **issunmihaichi/issunmihaichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
