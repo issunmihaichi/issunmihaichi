@@ -11,7 +11,7 @@ Every now and then, I did wonder: had I relied too much on outside help to get w
 
 Then today, I looked back at the road I’ve travelled—from GPT‑3 to GPT‑4o;  
 from Sonnet to Opus;  
-and now to the latest 5.6 Sol Ultra Fast.
+and now to the latest Opus 5.5 Max.
 
 I’ve switched from one AI to another, yet my programming prowess has only ever risen steadily.
 
@@ -31,7 +31,7 @@ GPT-3那会儿，我的编程能力还很青涩，写出来的代码常遭人嘲
 
 直到今天，我回顾来时的路——从GPT-3，到GPT-4o；  
 从Sonnet，到Opus；   
-再到如今的5.6 Sol Ultra Fast。  
+再到如今的Opus 5.5 Max。  
 
 我换了一个又一个AI，编程实力却始终稳步上升。  
 
